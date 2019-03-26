@@ -1,0 +1,5 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /opt/codedeploy-agent/deployment-root/258a8332-ca95-4c7b-98d0-d1549b3c4a6f/d-6E94BOIKX/deployment-archive
